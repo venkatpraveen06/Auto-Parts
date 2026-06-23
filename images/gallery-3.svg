@@ -1,0 +1,21 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" role="img" aria-label="Gallery Frame 3">
+  <defs>
+    <linearGradient id="g1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#152439"/>
+      <stop offset="100%" stop-color="#2f4c71"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="rgba(255,255,255,0.08)"/>
+    </pattern>
+  </defs>
+  <rect width="900" height="900" fill="url(#g1)"/>
+  <rect width="900" height="900" fill="url(#grid)"/>
+  <circle cx="738" cy="144" r="180" fill="rgba(255,255,255,0.12)"/>
+  <circle cx="117" cy="765" r="234" fill="rgba(255,91,46,0.2)"/>
+  <rect x="63" y="576" width="774" height="162" rx="18" fill="rgba(0,0,0,0.28)"/>
+  <path d="M126 558 L180 450 L630 450 L720 558 Z" fill="rgba(255,255,255,0.14)"/>
+  <circle cx="252" cy="576" r="50" fill="rgba(0,0,0,0.45)"/>
+  <circle cx="612" cy="576" r="50" fill="rgba(0,0,0,0.45)"/>
+  <text x="54" y="126" fill="#ffffff" font-size="52" font-family="Arial, sans-serif" font-weight="700">Gallery Frame 3</text>
+  <text x="54" y="198" fill="rgba(255,255,255,0.84)" font-size="26" font-family="Arial, sans-serif">Automotive stock and components</text>
+</svg>
